@@ -8,6 +8,7 @@ Description of Model 1 (Logistic Regression model with original data):
   * Accuracy of 99%, indicating this model fits the dataset very well and will predict loan risk well. 
   * Precision of 92%, meaning 92% of the predicted healthy or low risk borrowers were predicted correctly. 
   * Recall of 95%, meaning my model was 95% precise in predicting true positives in the dataset. 
+  
 Description of Model 2 (Logisitc Regression model with resampled training data): 
   * Accuracy of 99%, indicating this model fits the dataset very well and will predict loan risk very well. 
   * Precision of 92%, meaning 92% of the predicted healthy or low risk borrowers in the retrained dataset were predicted correctly. 
